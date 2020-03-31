@@ -1,4 +1,4 @@
-# payu-gpay-mob
+# payu-gpay-mob v1.3.2
 
 
 This library uses to integrate Google pay.
@@ -12,4 +12,4 @@ Web Flow:
 If the user device doesn't have Google Pay application installed, we will show the Web UI to do the payment. It is basically a collect flow, where the Google Pay application on the other device will get the notification to do the transaction. NPCIs call it PULL flow: Requesting money.
 
 Integration Doc:
-https://github.com/payu-intrepos/Documentations/wiki/PayU-GPay-SDK-Integration
+https://payumobile.gitbook.io/sdk-integration/android/google-pay
