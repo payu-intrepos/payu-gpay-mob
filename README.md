@@ -1,10 +1,10 @@
 # payu-gpay-mob v1.3.2
 
 
-This library uses to integrate Google pay.
+This library uses to integrate Google Pay.
 We are offering 2 types of Google Pay transactions.
 In-App Flow:
-Where the user device has Google pay application installed. We invoke the Installed Google pay application to do the payment transaction. User will see the Bottom-sheet(In-app) like UI on the checkout screen.
+Where the user device has Google Pay application installed. We invoke the Installed Google Pay application to do the payment transaction. User will see the Bottom-sheet(In-app) like UI on the checkout screen.
 
 If the installed app doesn't support In-app, then payment will be making via Intent flow(Full Screen UI).
 
