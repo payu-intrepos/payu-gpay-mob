@@ -12,4 +12,4 @@ Web Flow:
 If the user device doesn't have Google Pay application installed, we will show the Web UI to do the payment. It is basically a collect flow, where the Google Pay application on the other device will get the notification to do the transaction. NPCIs call it PULL flow: Requesting money.
 
 Integration Doc:
-https://payumobile.gitbook.io/sdk-integration/android/google-pay
+https://devguide.payu.in/mobile-sdk-android/google-pay/
