@@ -1,4 +1,4 @@
-# payu-gpay-mob v1.5.1
+# payu-gpay-mob v1.5.2
 
 This library uses to integrate Google Pay.
 We are offering 2 types of Google Pay transactions.
