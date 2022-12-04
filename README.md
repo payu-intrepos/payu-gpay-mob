@@ -1,4 +1,4 @@
-# payu-gpay-mob v1.3.8
+# payu-gpay-mob v1.4.0
 
 
 This library uses to integrate Google Pay.
